@@ -1,0 +1,4 @@
+{"rewrites":[
+ {"source":"/s/:code","destination":"/api/s?code=:code"},
+ {"source":"/i/:code","destination":"/api/i?code=:code"}
+]}
